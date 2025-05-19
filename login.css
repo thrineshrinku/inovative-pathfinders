@@ -1,0 +1,13 @@
+body {
+  background-image: url("innovation.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h2 {
+  color: #bc986a;
+  font-size: 300%;
+  font-family: "Oleo Script Swash Caps", cursive;
+}
+/*#lf,#hf{
+    background-color: rgba(31, 130, 176, 0.519);
+}*/
